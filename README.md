@@ -89,7 +89,7 @@ Clone repository and import project to Unity.
 <!-- CONTACT -->
 ## Contact
 
-Ernesto Diaz - [linkedin-shield]([linkedin-url]) - zaidotsenre@gmail.com
+Ernesto Diaz - [![LinkedIn][linkedin-badge]][linkedin-url] - zaidotsenre@gmail.com
 
 Project Link: [https://github.com/zaidotsenre/Evening-Run](https://github.com/zaidotsenre/Evening-Run)
 
@@ -99,7 +99,7 @@ Project Link: [https://github.com/zaidotsenre/Evening-Run](https://github.com/za
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-badge]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zaidotsenre
 [product-screenshot]: screenshot.png
 [Unity-badge]: https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=Unity&logoColor=white
