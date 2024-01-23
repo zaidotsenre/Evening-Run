@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://play.unity.com/mg/other/webgl-builds-44185)]
+[![Product Name Screen Shot][product-screenshot]](https://play.unity.com/mg/other/webgl-builds-44185)
 
 A simple 3D endless-running game where the player catches tomatoes and avoids sodas. The character moves faster as time passes, increasing difficulty. The game ends after the player picks up three sodas. The game keeps track of the player's highest score using cookies. The playable demonstration linked above was built for the web using Unity's WebGL export option. 
 
