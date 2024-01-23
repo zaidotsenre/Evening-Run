@@ -99,16 +99,6 @@ Project Link: [https://github.com/zaidotsenre/Evening-Run](https://github.com/za
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-i[contributors-sheld]: https://img.shields.io/github/contributors/zaidotsenre/Evening-Run.svg?style=for-the-badge
-[contributors-url]: https://github.com/zaidotsenre/Evening-Run/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zaidotsenre/Evening-Run.svg?style=for-the-badge
-[forks-url]: https://github.com/zaidotsenre/Evening-Run/network/members
-[stars-shield]: https://img.shields.io/github/stars/zaidotsenre/Evening-Run.svg?style=for-the-badge
-[stars-url]: https://github.com/zaidotsenre/Evening-Run/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zaidotsenre/Evening-Run.svg?style=for-the-badge
-[issues-url]: https://github.com/zaidotsenre/Evening-Run/issues
-[license-shield]: https://img.shields.io/github/license/zaidotsenre/Evening-Run.svg?style=for-the-badge
-[license-url]: https://github.com/zaidotsenre/Evening-Run/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zaidotsenre
 [product-screenshot]: screenshot.png
