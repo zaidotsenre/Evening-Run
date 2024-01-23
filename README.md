@@ -27,8 +27,6 @@
   <p align="center">
     3D endless runner. Built with Unity.
     <br />
-    <br />
-    <br />
     <a href="https://play.unity.com/mg/other/webgl-builds-44185">View Demo</a>
   </p>
 </div>
@@ -67,7 +65,6 @@ A simple 3D endless-running game where the player catches tomatoes and avoids so
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With
 
 * [![Unity][Unity-badge]][Unity-url]
@@ -102,7 +99,7 @@ Project Link: [https://github.com/zaidotsenre/Evening-Run](https://github.com/za
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/zaidotsenre/Evening-Run.svg?style=for-the-badge
+i[contributors-sheld]: https://img.shields.io/github/contributors/zaidotsenre/Evening-Run.svg?style=for-the-badge
 [contributors-url]: https://github.com/zaidotsenre/Evening-Run/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/zaidotsenre/Evening-Run.svg?style=for-the-badge
 [forks-url]: https://github.com/zaidotsenre/Evening-Run/network/members
