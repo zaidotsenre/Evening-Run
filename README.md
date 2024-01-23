@@ -89,7 +89,9 @@ Clone repository and import project to Unity.
 <!-- CONTACT -->
 ## Contact
 
-Ernesto Diaz - [![LinkedIn][linkedin-badge]][linkedin-url] - zaidotsenre@gmail.com
+Ernesto Diaz - 
+* [![LinkedIn][linkedin-badge]][linkedin-url]
+* zaidotsenre@gmail.com
 
 Project Link: [https://github.com/zaidotsenre/Evening-Run](https://github.com/zaidotsenre/Evening-Run)
 
