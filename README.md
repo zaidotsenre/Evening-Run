@@ -42,7 +42,6 @@
     <br />
     <br />
     <a href="https://play.unity.com/mg/other/webgl-builds-44185">View Demo</a>
-    ·
   </p>
 </div>
 
@@ -79,9 +78,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://play.unity.com/mg/other/webgl-builds-44185)]
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `zaidotsenre`, `Evening-Run`, `twitter_handle`, `zaidotsenre`, `gmail`, `zaidotsenre`, `Evening Run`, `3D endless runner. Built with Unity.`
+A simple 3D endless-running game where the player catches tomatoes and avoids sodas. The character moves faster as time passes, increasing difficulty. The game ends after the player picks up three sodas. The game keeps track of the player's highest score using cookies. The playable demonstration linked above was built for the web using Unity's WebGL export option. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,27 +101,16 @@ Clone repository and import project to Unity.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Unity [https://unity.com/](https://unity.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
-Ernesto Diaz - [@twitter_handle](https://twitter.com/twitter_handle) - zaidotsenre@gmail.com
+Ernesto Diaz - [linkedin-shield]([linkedin-url]) - zaidotsenre@gmail.com
 
 Project Link: [https://github.com/zaidotsenre/Evening-Run](https://github.com/zaidotsenre/Evening-Run)
 
