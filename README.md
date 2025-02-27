@@ -27,7 +27,7 @@
   <p align="center">
     3D endless runner. Built with Unity.
     <br />
-    <a href="https://play.unity.com/mg/other/webgl-builds-44185">View Demo</a>
+    <a href="https://play.unity.com/en/games/75d23d85-b2a8-489f-b8ea-f1ac97bec9cd/evening-run">View Demo</a>
   </p>
 </div>
 
